@@ -1,8 +1,9 @@
 ---
-name: Práctica procedimientos con parámetros kids
+name: Práctica procedimientos con parámetros
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
