@@ -1,0 +1,7 @@
+check_head_position: false
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 4 3
+     head 0 0
+   error: out_of_board

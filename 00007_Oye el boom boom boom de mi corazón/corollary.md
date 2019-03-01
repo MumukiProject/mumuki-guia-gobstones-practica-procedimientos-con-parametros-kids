@@ -1,0 +1,3 @@
+¡Hizo BOOM! :scream: ¿Pero por qué nos dice `El parametro de “puedeMover” debería ser una dirección pero es un número`? Justamente porque donde esperaba recibir una dirección le mandamos un número. No tiene sentido `puede mover 3` :confused:; por eso no lo puede ejecutar. Lo mismo pasa cuando le decimos que la cantidad de panqueques es `Este`. 
+
+ Así que tenemos que tener muuuucho cuidado con el **orden** en que pasamos los argumentos a los procedimientos al invocarlos en el `programa`. :sweat_smile: 
