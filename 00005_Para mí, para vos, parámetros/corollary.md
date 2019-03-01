@@ -1,0 +1,1 @@
+¡Sí! Los parámetros de vuelta al rescate :ok_woman:. Un procedimiento no tiene por qué tener un solo parámetro, puede tener 2, como en este caso, o 3, ¡o los que necesitemos! :smiley:
