@@ -1,0 +1,1 @@
+Acordate que `repetir` recibe como argumento un número. Hasta ahora usamos números u otras expresiones como `número de bolitas`. Probá qué ocurre con el parámetro.
