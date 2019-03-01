@@ -18,10 +18,10 @@ examples:
    final_board: |
      GBB/1.0
      size 4 3
-     cell 0 2 Verde 1 Azul 6 
-     cell 1 2 Verde 1 Azul 6 
-     cell 2 2 Verde 1 Azul 6 
-     cell 3 2 Verde 1 Azul 6 
+     cell 0 2 Azul 6 Verde 1 
+     cell 1 2 Azul 6 Verde 1 
+     cell 2 2 Azul 6 Verde 1 
+     cell 3 2 Azul 6 Verde 1 
      cell 0 1 Verde 1 
      cell 1 1 Verde 3 
      cell 3 1 Verde 1 
