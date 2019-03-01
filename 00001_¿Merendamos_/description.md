@@ -1,4 +1,4 @@
-<gs-attire attire-url="<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-con-parametros-kids/master/assets/attires/config_1551467293530.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-con-parametros-kids/master/assets/attires/config_1551467293530.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-con-parametros-kids/master/assets/toolbox_1551466079639.xml"></gs-toolbox>
 
