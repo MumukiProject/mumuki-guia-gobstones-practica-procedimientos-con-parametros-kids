@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:ServirMeriendaAlEste
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:ServirMeriendaAlEste
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirMeriendaAlEste
+  inspection: UsesWhile
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirMeriendaAlEste
+  inspection: Uses:ServirPanqueques_
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirMeriendaAlEste
+  inspection: Uses:Mover
