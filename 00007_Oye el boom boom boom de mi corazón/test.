@@ -1,6 +1,7 @@
 check_head_position: false
 examples:
- - initial_board: |
+ - title: '¡BOOM!'
+   initial_board: |
      GBB/1.0
      size 4 3
      cell 0 2 Verde 1 
