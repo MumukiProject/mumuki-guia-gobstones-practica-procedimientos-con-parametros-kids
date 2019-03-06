@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity3:ServirMeriendaDeLujo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:ServirPanqueques
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:ServirHelado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:ServirMeriendaDeLujo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirMeriendaDeLujo
+  inspection: Uses:ServirPanqueques
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirMeriendaDeLujo
+  inspection: Uses:ServirHelado
