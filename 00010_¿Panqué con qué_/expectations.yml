@@ -5,7 +5,7 @@ expectations:
   inspection: DeclaresComputationWithArity3:ServirMeriendaDeLujo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity1:ServirPanqueques
+  inspection: DeclaresComputationWithArity2:ServirPanqueques
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresComputationWithArity1:ServirHelado
