@@ -1,0 +1,1 @@
+¡Excelente! :blush: Ya usamos varios procedimientos con parámetros. Pero… ¿siempre tendrán que ser de distintos tipos? Por ejemplo, una cantidad y un color, o una dirección y un número de bolitas? ¡Averigüémoslo más adelante! :grimacing:

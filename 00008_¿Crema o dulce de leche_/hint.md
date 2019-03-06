@@ -1,0 +1,1 @@
+Para agregarle más parámetros al procedimiento, tocá el `+` que aparece al lado del nombre. Reemplazá el nombre `parámetro 2` por `acompañamiento` para que cualquiera pueda entender de qué hablamos.
