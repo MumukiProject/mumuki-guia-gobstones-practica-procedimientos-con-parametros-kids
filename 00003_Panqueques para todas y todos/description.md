@@ -4,4 +4,4 @@
 
 El olor de los panqueques es tan rico que se sumaron más chicas y chicos a nuestro pícnic. Así que extendimos el mantel y pusimos más platos para que también coman. :smile:
 
-> Definí el procedimiento `Servir merienda al Este` con el parámetro `cantidad de panqueques` para que `sirva 3 panqueques` en todos los platos al `Este`, hasta que `no pueda moverse` más.
+> Definí el procedimiento `Servir merienda al Este` con el parámetro `cantidad de panqueques` para que `sirva` esa `cantidad de panqueques` en todos los platos al `Este`, hasta que `no pueda moverse` más.
